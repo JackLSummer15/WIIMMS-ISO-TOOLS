@@ -1,2 +1,1 @@
-# WIIMMS-ISO-TOOLS
-extracting and composing wii roms using Wiimms ISO Tools
+extracting and composing wii roms using Wiimm's ISO Tools
