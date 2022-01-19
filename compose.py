@@ -5,5 +5,5 @@ try:
 except:
     pass
 
-gameid=input("Enter your Game ID: ")
-os.system('wit copy extracted_roms/'+gameid+' --dest output_rom/'+gameid+'.wbfs')
+wiidir=input("Enter your extracted Wii directory: ")
+os.system('wit copy extracted_roms/'+wiidir+' --dest output_rom/'+wiidir+'.wbfs')
